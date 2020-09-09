@@ -438,3 +438,6 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
 fi;
 
 ui_print " " " " "Done!";
+ui_print " " " " "Enjoy the kernel! ";
+ui_print " " " " "Predator ~ Stormbreaker ";
+
